@@ -1,0 +1,44 @@
+#retsept{
+    padding-top: 50px;
+}
+#retsept .retsept-img {
+    max-width: 300px;
+    width: 100%;
+    
+
+}
+
+.retsept-card {
+    max-width: 400px;
+    padding: 50px;
+    width: 100%;
+    background-color: gray;
+}
+
+.retsept-card h1 {
+    padding-top: 25px;
+    color: blue;
+    font-size: 20px;
+}
+.eh{
+    display: grid;
+    grid-template-columns: repeat( 4 , auto);
+    gap: 40px;
+}
+@media (max-width:1200px) {
+    .eh{
+        grid-template-columns: repeat( 3 ,auto);
+    }
+}
+@media (max-width:867px) {
+    .eh {
+        grid-template-columns: auto auto;
+    }
+}
+@media (max-width:585px) {
+    .eh {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
