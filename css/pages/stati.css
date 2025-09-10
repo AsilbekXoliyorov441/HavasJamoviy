@@ -1,0 +1,7 @@
+.rasm{
+    width: 500px;
+}
+.stati-hero{
+    display: flex;
+    justify-content: space-between;
+}
