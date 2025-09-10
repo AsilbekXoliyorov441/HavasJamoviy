@@ -1,0 +1,41 @@
+.navbar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    color: rgb(238, 255, 0);
+}
+.navbar--menus{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.navbar--menus li a{
+    color: red;
+}
+#about{
+    background-color:rgb(0, 0, 0);
+    padding-top: 100px;
+}
+.about{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+.about--cards{
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-top: 20px;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+.about--cards h1 , p{
+    color: white;
+}
