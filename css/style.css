@@ -2,3 +2,13 @@
 @import url("./container/container.css");
 @import url("./layout/footer.css");
 @import url("./layout/header.css");
+@import url("./pages/about.css");
+@import url("./pages/home.css");
+@import url("./pages/karere.css");
+@import url("./pages/magazin.css");
+@import url("./pages/novvosti.css");
+@import url("./pages/partner.css");
+@import url("./pages/prolejeniya.css");
+@import url("./pages/resultat.css");
+@import url("./pages/retsept.css");
+@import url("./pages/stati.css");
