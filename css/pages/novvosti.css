@@ -1,0 +1,18 @@
+.novvosti-info h2{
+    color: cadetblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.novvosti-info p{
+    color: rgb(93, 84, 78);
+    padding-left: 25px;
+}
+
+.novvosti-info{
+    background-color: #9fc5d8;
+    width: 450px;
+    height: 200px;
+    margin-top: 50px;
+}
