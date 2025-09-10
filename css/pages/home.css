@@ -39,6 +39,7 @@
 @media (max-width: 480px) {
   .home-hero-cards {
      display: flex;
+     flex-direction: column;
      align-items: center;
   }
 }
