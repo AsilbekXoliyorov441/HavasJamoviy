@@ -3,3 +3,12 @@
     color: greenyellow;
     max-width: 300px;
 }
+.magazin-hero{
+    border: 1px 1px solid green;
+    background-color: green;
+    max-width: 500px;
+}
+.magazin-tabiat{
+    max-width: 300px;
+
+}
